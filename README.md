@@ -58,6 +58,3 @@ You can customize the following parameters in the script:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-```
-
-This formatting improves readability and organization of the script. Adjustments were made to align code blocks, comments, and headers for a cleaner appearance.
